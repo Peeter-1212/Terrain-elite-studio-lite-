@@ -4,3 +4,4 @@ Ferramenta profissional de manipulação de terreno e geração procedural para 
 1. Acesse a pasta `Digite src`.
 2. Abra o arquivo `TerrainEliteSupreme.luau`.
 3. Copie o código e execute-o no seu console de desenvolvedor ou executor de preferência dentro do Roblox.
+4. vá em StarterGui e crie um ScreenGui e adicione um LocalScript e cole o código.
